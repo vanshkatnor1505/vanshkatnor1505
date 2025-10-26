@@ -1,3 +1,5 @@
+![Cool animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
 HELLO !
 
 Here are some ideas to get you started:
