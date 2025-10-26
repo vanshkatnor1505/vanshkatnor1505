@@ -1,4 +1,4 @@
-![Cool animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Cool animation](https://www.pinterest.com/pin/360569513942610717/)
 
 HELLO !
 
