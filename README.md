@@ -1,6 +1,4 @@
-![Cool animation](https://www.pinterest.com/pin/360569513942610717/)
-
-HELLO !
+HELLO EVERYONE !
 
 Here are some ideas to get you started:
 
