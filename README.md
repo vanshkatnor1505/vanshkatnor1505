@@ -1,6 +1,4 @@
-HELLO EVERYONE !
-
-Here are some ideas to get you started:
+👋  Hey!
 
 - 🔭 I’m currently studying B.tech Data Science 1st year
 
