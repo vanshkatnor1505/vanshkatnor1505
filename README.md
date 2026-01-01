@@ -11,9 +11,6 @@
 ![Cool animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVmd2xoeDBpazZlbXNxMGtzNDZ0cHl3Y24yYzFrN2ZwanU3Zmk3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PXqNXjkTmEfRK/giphy.gif)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vanshkatnor1505&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vanshkatnor1505&theme=aura_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshkatnor1505&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
 
