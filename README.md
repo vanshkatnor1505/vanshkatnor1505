@@ -1,4 +1,4 @@
-👋  Hey!
+👋  Hey visitor!
 
 - 🔭 I’m currently studying B.tech Data Science 1st year
 
