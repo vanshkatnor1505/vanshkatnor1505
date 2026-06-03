@@ -1,6 +1,6 @@
 👋  Hey visitor!
 
-- 🔭 I’m currently studying B.tech Data Science 1st year
+- 🔭 I’m currently studying B.tech Computer Science (Specialization Data Science) 2nd year
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshkatnor1737@gmail.com) 
